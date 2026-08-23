@@ -1,0 +1,8 @@
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/PaletteDropperGameTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/CanvasRecipeGameTests$CanvasRecipeSpec.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/CanvasRecipeGameTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/CanvasSidesGameTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/CanvasTagCompatibilityGameTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/EaselTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/RecipeCanvasCloningGameTests.class
+/var/home/nina/Documents/Learning/base xerca/xercamods-fabric-1.21.1/XercaPaintMod/build/classes/java/test/xerca/xercapaint/tests/RecipeFillPaletteGameTests.class
