@@ -6,6 +6,8 @@ I have specifically extended the 1.21.1 version of Joy of Painting for larger ca
 
 ![poliwag_start_painting](https://misnina.neocities.org/poly_start_small.gif)
 
+<img src="https://misnina.neocities.org/depths_goldeen.png" width="600px">
+
 Adds:
 - Extra Large, Extra Tall, Extra Long Canvases (48 pixel based, 3 blocks)
 - Super Large, Super Tall, Super Long Canvases (64 pixel based, 4 blocks)
